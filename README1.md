@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](./Downloads\Screenshot 2022-01-29 at 23-59-30 Frontend Mentor NFT preview card component.png)
+![screenshot](./Design\Screenshot.png)
 
 ### Links
 
