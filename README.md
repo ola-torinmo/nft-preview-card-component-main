@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://ola-torinmo.github.io)
+- Solution URL: [solution](https://github.com/ola-torinmo/nft-preview-card-component-main)
+- Live Site URL: [live url](https://ola-torinmo.github.io/nft-preview-card-component-main/)
 
 ## My process
 
