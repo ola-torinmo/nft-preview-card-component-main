@@ -125,6 +125,7 @@ html{
 
     display: flex;
     margin-left: 27px;
+    padding-top: 2%;
 }
 
 .author .avatar img{
